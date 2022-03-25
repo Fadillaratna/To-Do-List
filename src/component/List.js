@@ -129,7 +129,7 @@ export default class List extends Component {
             <div>
                 <div className="dashboard ms-5 text-start">
                     <br /><br /><br /><br /><br /><br />
-                    <h5 className="card-title display-3 fw-bolder mb-0">LIST YOUR ACTS</h5>
+                    <h5 className="card-title display-3 fw-bolder mb-0">LIST YOUR ACT</h5>
                     <p className="card-text lead fs-2 mb-3">manage your environment day agenda here!</p>
                     <div className="input">
                         <input type="text" className="form-control my-2 rounded mb-3" id="search" placeholder="Search your agenda..."
